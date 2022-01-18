@@ -1,0 +1,3 @@
+hello
+saya ada di repo mypython
+ok,sekian
